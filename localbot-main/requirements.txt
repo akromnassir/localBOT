@@ -1,0 +1,6 @@
+lxml
+torch
+transformers
+safetensors
+
+
